@@ -1,0 +1,1 @@
+let hello = "Hi here is my script.js"
